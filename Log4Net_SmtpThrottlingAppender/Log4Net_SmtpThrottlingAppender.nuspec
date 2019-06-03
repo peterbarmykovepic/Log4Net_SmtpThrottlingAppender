@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.1</version>
+    <title>$title$</title>
+    <authors>Peter Barmykov</authors>
+    <owners>Peter Barmykov</owners>   
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Log4Net SMTP Buffering</description>
+    <copyright>Copyright 2019</copyright>    
+  </metadata>
+</package>
