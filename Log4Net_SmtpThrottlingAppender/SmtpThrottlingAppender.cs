@@ -42,7 +42,7 @@ namespace Log4Net_SmtpThrottlingAppender
       ///
       /// </summary>
       
-      public class SmtpCachingAppender : SmtpAppender
+      public class SmtpThrottlingAppender : SmtpAppender
       {
 
             // Appender state data
