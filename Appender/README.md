@@ -1,3 +1,9 @@
+Nuget
+
+https://www.nuget.org/packages/Log4Net_SmtpThrottlingAppender/
+
+
+```text
 Caching version of the standard log4net SmtpAppender. This appender will
 cache log events that are to be sent out via Smtp and send them in block.
 Configuration options:
@@ -29,3 +35,4 @@ Configuration options:
    <IncludeContextLogEvents value="false"/>"
    <MaxBufferSize value="3"/>
 </appender>
+```
